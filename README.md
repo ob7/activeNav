@@ -8,7 +8,7 @@ Works on markup like this:
       <a href="/">Home</a>
     </li>
     <li>
-      <a href="/somewhere"<a>
+      <a href="/somewhere"><a>
     </li>
   </ul>
 </nav>
